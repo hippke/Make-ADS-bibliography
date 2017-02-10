@@ -1,4 +1,4 @@
-# Generate Bibliography from LaTeX manuscript using ADS bibcodes
+# Generate bibliography from LaTeX manuscript using ADS bibcodes
 
 This Python script parses the LaTeX files in the current folder for citations in the ADS BibTeX format, e.g. ` \citep{2017ApJ...835L..32H}`. It then queries ADS and generates a *bibliography.bib*.
 
